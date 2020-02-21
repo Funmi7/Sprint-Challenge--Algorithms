@@ -13,4 +13,8 @@ c)
 The runtime will be `O(n)` because as the size increases, the runtime will grow at the same rate, this is because the code is recurive which creates a loop that runs until n = 0
 ## Exercise II
 
+When an egg is thrown from the middle floor that is `n/2` of the story building, if the eggs gets broken eliminate all the floors above it and if it doesn't get broken eliminate all the floors below it. Repeat this process until f is determined.
+This is basically a binary search and the runtime complexity is 
+`O(log n)`
+
 
