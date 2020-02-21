@@ -97,8 +97,8 @@ class SortingRobot:
         Sort the robot's list.
         """
         # Fill this out
-        pass
-
+        # pass
+    
 
 if __name__ == "__main__":
     # Test our your implementation from the command line
